@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 red is primary color
-=======
 green is secondary color
->>>>>>> master
