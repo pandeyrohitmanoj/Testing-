@@ -1,2 +1,0 @@
-red is primary color
-green is secondary color
